@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "pjimin@mit.edu"
   generatedFields:
     date:
       type               : "date"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "Jimin_Park.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
