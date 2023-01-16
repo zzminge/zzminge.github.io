@@ -11,8 +11,7 @@ title                    : "Jimin Park / Welcome!"
 title_separator          : "-"
 name                     : &name "Jimin Park"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base 
-hostname & 
+url                      : https://zzminge.github.io # the base hostname & 
 protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
